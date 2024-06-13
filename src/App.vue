@@ -29,7 +29,7 @@ export default {
   color: #42b983;
   font-weight: bold;
 }
-.q-layout{
+.q-layout {
   background-image: linear-gradient(to right bottom, #52716d, #3c8e7b, #27aa7d, #2cc573, #52df5c, #50e15a, #4de258, #4be456, #00ce6e, #00b77c, #009f80, #00867b);
 }
 </style>
